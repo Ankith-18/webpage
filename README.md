@@ -28,12 +28,15 @@ This project includes:
 
 ### 1️⃣ Clone The Repository
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+-git clone https://github.com/Ankith-18/webpage.git
+-cd your-repo-name
 
 quired Dependencies
 If needed, install manually:
 
-npm install
-npm install react-icons recharts
-npm run dev
+-npm install
+-npm install react-icons recharts
+-npm run dev
+
+Now open your browser and visit:
+http://localhost:5173
