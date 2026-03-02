@@ -14,7 +14,6 @@ This project includes:
 - ⚡ Fast Development with Vite
 
 ---
-
 ## 🛠️ Tech Stack
 
 - React
